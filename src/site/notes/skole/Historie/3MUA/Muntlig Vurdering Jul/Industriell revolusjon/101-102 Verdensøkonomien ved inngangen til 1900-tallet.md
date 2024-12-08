@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/skole/historie/3-mua/muntlig-vurdering-jul/industriell-revolusjon/101-102-verdensokonomien-ved-inngangen-til-1900-tallet/"}
+---
+
+- **Selv om Adam Smith argumenterte for færre reguleringer, mer konkurranse og frihandel for å oppnå økonomisk vekst og velstand, ble disse ideene ikke alltid praktisert.** For eksempel hadde Storbritannia, til tross for å være en forkjemper for frihandel, flere importkontroller enn Frankrike og forbød eksport av teknologi og maskineri til konkurrenter frem til slutten av 1800-tallet. Dette var et forsøk på å opprettholde sin industrielle fordel.
+
+- **Industrialiseringen førte til økt produksjon som oversteg den innenlandske etterspørselen. Europeiske stormakter koloniserte store deler av verden for å få tilgang til råvarer og nye markeder for sine ferdigvarer.** Storbritannia, som en ledende industri- og sjøfartsnasjon, gikk inn for fjerning av toll på både eksport og import. De mente at frihandel ville gagne deres økonomi. På 1840-tallet avskaffet de toll på importert korn, og etter hvert som den industrielle revolusjonen spredte seg, adopterte andre land prinsippene om frihandel.
+
+- **Et tilbakeslag for frihandel kom på 1870-tallet på grunn av økonomiske vanskeligheter.** Europeiske bønder møtte konkurranse fra billig amerikansk korn, og overproduksjon av industrivarer førte til kriser i Europa og USA. Dette resulterte i konkurser og fabrikkstengninger, og økonomisk stagnasjon førte til krav om proteksjonistiske tiltak. Land innførte nye tollsatser på importerte varer, noe som truet frihandelen og økte internasjonale spenninger i tiden før første verdenskrig.
+
+- **Monopoler, trusts og karteller oppsto som måter å begrense konkurranse på, i strid med Smiths ideer.** Monopoler ble dannet når en dominerende aktør i en bransje senket prisene for å presse konkurrenter ut og få kontroll over markedet og prisene. Trusts, som Standard Oil Company i USA, kontrollerte flere industrier knyttet til oljeproduksjon. Karteller, som Siemens og AEG i Tyskland, delte markedet mellom noen få store aktører, med avtaler om produksjon og priser.
+
+- **Forsøk ble gjort for å begrense makten til monopoler og beskytte fri konkurranse.** I 1890 vedtok den amerikanske kongressen antitrustlover for å forby monopoler og prissamarbeid. Imidlertid hadde disse lovene begrenset effektivitet mot mektige selskaper som US Steel Corporation. Tilsvarende manglet Tyskland vilje til å utfordre selskaper som Siemens eller Krupp. Som et resultat var fri konkurranse, som Smith anså som avgjørende for en sunn økonomi, i stor grad en illusjon ved begynnelsen av 1900-tallet.
